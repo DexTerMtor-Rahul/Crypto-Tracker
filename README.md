@@ -30,13 +30,13 @@ npm start
 - The Bitcoin page provides a detailed description of Bitcoin along with a historical price chart to track its price movements over time.
 
 # ScreenShots
-![Homepage - 1](https://github.com/DexTerMtor-Rahul/Crypto-Tracker/assets/99525014/7f32511c-f557-424f-b3cc-804f089f4526)
+![Homepage - 1](https://github.com/DexTerMtor-Rahul/Crypto-Tracker/assets/99525014/87ad3601-b3ee-44b0-ab7f-e8e8c77cb672)
 
-![Homepage - 2](https://github.com/DexTerMtor-Rahul/Crypto-Tracker/assets/99525014/5fdbf0b3-4299-45ee-8486-32f8af5f00ee)
+![Homepage - 2](https://github.com/DexTerMtor-Rahul/Crypto-Tracker/assets/99525014/236710da-e520-43d4-8e85-c4c494a6c859)
 
-![Bitcoin Page - 1](https://github.com/DexTerMtor-Rahul/Crypto-Tracker/assets/99525014/147e608e-8b13-4207-b59c-160c85dd7380)
+![Bitcoin Page - 1](https://github.com/DexTerMtor-Rahul/Crypto-Tracker/assets/99525014/9fbe87f7-84ec-4292-8a5e-a0e73849d6d1)
 
-![Bitcoin Page - 2](https://github.com/DexTerMtor-Rahul/Crypto-Tracker/assets/99525014/aa95385c-f267-41bb-bb52-71f897422652)
+![Bitcoin Page - 2](https://github.com/DexTerMtor-Rahul/Crypto-Tracker/assets/99525014/2cc6a498-d470-4290-936f-c4f4a6f81f99)
 
 
 
