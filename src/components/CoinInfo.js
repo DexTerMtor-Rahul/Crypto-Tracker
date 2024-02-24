@@ -19,7 +19,7 @@ const CoinInfo = ({ coin }) => {
   const { currency } = CryptoState();
   const fetchHistoricalData = async () => {
     try {
-      const { data } = await axios.request(
+      const { data } = await axios.get(
         HistoricalChart(coin.id, days, currency),
         {
           withCredentials: true,

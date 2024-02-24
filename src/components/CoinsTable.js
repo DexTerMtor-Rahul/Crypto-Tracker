@@ -82,7 +82,7 @@ const CoinsTable = () => {
   const fetchCoinsList = async () => {
     try {
       setLoading(true);
-      const { data } = await axios.request(CoinList(currency), {
+      const { data } = await axios.get(CoinList(currency), {
         withCredentials: true,
       });
       setCoins(data);
