@@ -2,7 +2,11 @@
   "name": "crypto-tracker",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "proxy":"http://localhost:8080/",
+=======
+  "homepage": "https://DexTerMtor-Rahul.github.io/Crypto-Tracker/",
+>>>>>>> 48637d9d5c041bdcd440fddd32bf3caa0b0fbc37
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
@@ -27,7 +31,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -48,6 +54,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "http-proxy-middleware": "^2.0.6"
   },
   "resolutions": {
